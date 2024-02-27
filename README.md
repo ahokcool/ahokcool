@@ -17,7 +17,7 @@ I'm Alex, a student at [42-lisboa][url_42lisboa]. Here you will find an overview
 |[minitalk][minitalk]|:white_check_mark:|Create a communication program in the form of a client and server using UNIX signals.|
 |[philosophers][philosophers]|:white_check_mark:|Write a program that simulates the life of a group of philosophers to learn the basics of threading a process an mutexes.|
 |[minishell][frankenshell]|:white_check_mark:|Recreate the bash shell. This is a huge project, so you should go check it out. ;) |
-|[cub3d][cub3D]|:white_check_mark:|Create a 3D game in C using raycasting.|
+|[cub3D][cub3D]|:white_check_mark:|Create a 3D game in C using raycasting.|
 |[NetPractice](https://cdn.intra.42.fr/pdf/pdf/117827/en.subject.pdf)|:warning:|NetPractice is a general practical exercise to let you discover networking in a playful way. The goal is to configure small-scale networks (TCP/IP, Subnetting, Routing, etc.) and to make them work.|
 |[CPP_basics][CPP_basics]|:warning:|tba.|
  
