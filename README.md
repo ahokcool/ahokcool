@@ -37,7 +37,7 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 [philosophers]:					https://github.com/ahokcool/philosophers
 [frankenshell]:					https://github.com/ahokcool/frankenshell
 [cub3D]:							  https://github.com/ahokcool/cub3D
-[CPP_basics]:						https://github.com/ahokcool/CPP_basics](https://github.com/ahokcool/CPPs)
+[CPPs]:						https://github.com/ahokcool/CPP_basics](https://github.com/ahokcool/CPPs)
 
 <!-- ahokcool FOOTER-->
 ---
