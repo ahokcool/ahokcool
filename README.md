@@ -26,6 +26,9 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 |[cub3D][cub3D]|:white_check_mark:|Create a 3D game in C using raycasting.|
 |NetPractice|:building_construction:|NetPractice is a general practical exercise to let you discover networking in a playful way. The goal is to configure small-scale networks (TCP/IP, Subnetting, Routing, etc.) and to make them work.|
 |[CPPs][CPPs]|:building_construction:|tba.|
+|webserv|:building_construction:|tba.|
+|Inception|:building_construction:|tba.|
+|ft_transcendence|:building_construction:|tba.|
  
 <!-- Links -->
 [url_42]:				https://42.fr/en/homepage/
