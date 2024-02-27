@@ -24,20 +24,20 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 |[philosophers][philosophers]|:white_check_mark:|Write a program that simulates the life of a group of philosophers to learn the basics of threading a process an mutexes.|
 |[minishell][frankenshell]|:white_check_mark:|Recreate the bash shell. This is a huge project, so you should go check it out. ;) |
 |[cub3D][cub3D]|:white_check_mark:|Create a 3D game in C using raycasting.|
-|[NetPractice](https://cdn.intra.42.fr/pdf/pdf/117827/en.subject.pdf)|:building_construction:|NetPractice is a general practical exercise to let you discover networking in a playful way. The goal is to configure small-scale networks (TCP/IP, Subnetting, Routing, etc.) and to make them work.|
-|[CPP_basics][CPP_basics]|:building_construction:|tba.|
+|NetPractice|:building_construction:|NetPractice is a general practical exercise to let you discover networking in a playful way. The goal is to configure small-scale networks (TCP/IP, Subnetting, Routing, etc.) and to make them work.|
+|[CPPs][CPPs]|:building_construction:|tba.|
  
 <!-- Links -->
 [url_42]: 							https://42.fr/en/homepage/
-[url_42lisboa]: 					https://www.42lisboa.com/
-[libft-gnl-printf]: 				https://github.com/ahokcool/libft-gnl-printf
-[fdf]:								https://github.com/ahokcool/fdf
+[url_42lisboa]: 				https://www.42lisboa.com/
+[libft-gnl-printf]: 		https://github.com/ahokcool/libft-gnl-printf
+[fdf]:								  https://github.com/ahokcool/fdf
 [push_swap]:						https://github.com/ahokcool/push_swap
 [minitalk]:							https://github.com/ahokcool/minitalk
-[philosophers]:						https://github.com/ahokcool/philosophers
-[frankenshell]:						https://github.com/ahokcool/frankenshell
-[cub3D]:							https://github.com/ahokcool/cub3D
-[CPP_basics]:						https://github.com/ahokcool/CPP_basics
+[philosophers]:					https://github.com/ahokcool/philosophers
+[frankenshell]:					https://github.com/ahokcool/frankenshell
+[cub3D]:							  https://github.com/ahokcool/cub3D
+[CPP_basics]:						https://github.com/ahokcool/CPP_basics](https://github.com/ahokcool/CPPs)
 
 <!-- ahokcool FOOTER-->
 ---
