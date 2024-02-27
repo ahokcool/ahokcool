@@ -28,16 +28,16 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 |[CPPs][CPPs]|:building_construction:|tba.|
  
 <!-- Links -->
-[url_42]: 							https://42.fr/en/homepage/
-[url_42lisboa]: 				https://www.42lisboa.com/
-[libft-gnl-printf]: 		https://github.com/ahokcool/libft-gnl-printf
-[fdf]:								  https://github.com/ahokcool/fdf
-[push_swap]:						https://github.com/ahokcool/push_swap
-[minitalk]:							https://github.com/ahokcool/minitalk
-[philosophers]:					https://github.com/ahokcool/philosophers
-[frankenshell]:					https://github.com/ahokcool/frankenshell
-[cub3D]:							  https://github.com/ahokcool/cub3D
-[CPPs]:						https://github.com/ahokcool/CPP_basics](https://github.com/ahokcool/CPPs)
+[url_42]:				https://42.fr/en/homepage/
+[url_42lisboa]: 		https://www.42lisboa.com/
+[libft-gnl-printf]: 	https://github.com/ahokcool/libft-gnl-printf
+[fdf]:					https://github.com/ahokcool/fdf
+[push_swap]:			https://github.com/ahokcool/push_swap
+[minitalk]:				https://github.com/ahokcool/minitalk
+[philosophers]:			https://github.com/ahokcool/philosophers
+[frankenshell]:			https://github.com/ahokcool/frankenshell
+[cub3D]:				https://github.com/ahokcool/cub3D
+[CPPs]:					https://github.com/ahokcool/CPPs
 
 <!-- ahokcool FOOTER-->
 ---
