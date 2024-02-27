@@ -3,7 +3,7 @@
 ---
 <div align="center">
 :v: Oye, I'm Alex, a student at <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.<br><br>
-Here is an overview of my projects. Enjoy exploring my work and feel free to contact me if you have any questions or suggestions...
+Here is an overview of my projects. Enjoy exploring my work and feel free to <a href="www.linkedin.com/in/ahokcool" target="_blank">contact me</a> if you have any questions or suggestions...
 <a id="top"></a>
 </div>
 
