@@ -27,8 +27,8 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 - Replicates (parts of) the ```printf``` function from the standard C library ```libc```.
  
 ### ✅ born2beroot
-- tba.
-- tba.
+- Install a Virtual Machine and discover the basics of system and network administration
+- Setting up a simple Wordpress web server
 
 ### ✅ [fdf][fdf]
 - working with the API of [a graphics library](https://github.com/42Paris/minilibx-linux)
@@ -36,14 +36,14 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 - [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
 - Using a [rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix) to transform coordinates
 
+### ✅ [push_swap][push_swap]
+- working with stacks
+- [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
+- [radix sort](https://en.wikipedia.org/wiki/Radix_sort)
+- [recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
+
 |Project|Status|Description|
 |:---|:---:|---|
-|[libft][libft-gnl-printf]|:white_check_mark:|Recode some functions from the standard C library, as well as some other utility functions that will be useful later on in the cursus.|
-|[ft_printf][libft-gnl-printf]|:white_check_mark:|Recode the libc’s printf function.|
-|[get_next_line][libft-gnl-printf]|:white_check_mark:|Write a function which returns a line read from a file descriptor, without the newline.|
-|born2beroot|:white_check_mark:|Install a Virtual Machine, discover the basics of system and network administration as well as a few services often used on a server machine.|
-|[fdf][fdf]|:white_check_mark:|Create a simplified 3D graphic representation of a relief landscape.|
-|[push_swap][push_swap]|:white_check_mark:|Sort data on a stack, with a limited set of instructions, using the lowest possible number of actions.|
 |[minitalk][minitalk]|:white_check_mark:|Create a communication program in the form of a client and server using UNIX signals.|
 |[philosophers][philosophers]|:white_check_mark:|Write a program that simulates the life of a group of philosophers to learn the basics of threading a process an mutexes.|
 |[minishell][frankenshell]|:white_check_mark:|Recreate the bash shell. This is a huge project, so you should go check it out. ;) |
