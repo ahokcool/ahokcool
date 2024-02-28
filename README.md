@@ -60,7 +60,10 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 - and a lot more :)
 
 ### ✅ [cub3D][cub3D]
-- tba.
+- the software design pattern [model–view–controller](Model–view–controller)
+- [digital differential analyzer](https://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)) (graphics algorithm)
+- vector handling including: addition, rotation, normalisation
+- calculation of perpendicular and euclidean distances
 
 ### :building_construction: NetPractice
 NetPractice is a general practical exercise to let you discover networking in a playful way. The goal is to configure small-scale networks (TCP/IP, Subnetting, Routing, etc.) and to make them work.
