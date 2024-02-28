@@ -42,9 +42,12 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 - [radix sort](https://en.wikipedia.org/wiki/Radix_sort)
 - [recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
 
+### ✅ [minitalk][minitalk]
+- UNIX Signals
+- C signal handling
+
 |Project|Status|Description|
 |:---|:---:|---|
-|[minitalk][minitalk]|:white_check_mark:|Create a communication program in the form of a client and server using UNIX signals.|
 |[philosophers][philosophers]|:white_check_mark:|Write a program that simulates the life of a group of philosophers to learn the basics of threading a process an mutexes.|
 |[minishell][frankenshell]|:white_check_mark:|Recreate the bash shell. This is a huge project, so you should go check it out. ;) |
 |[cub3D][cub3D]|:white_check_mark:|Create a 3D game in C using raycasting.|
