@@ -15,6 +15,29 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 
 
 ## Projects
+### ✅ [libft][libft-gnl-printf]
+- tba.
+- tba.
+- tba.
+
+### ✅ [ft_printf][libft-gnl-printf]
+- tba.
+- tba.
+  
+### ✅ [get_next_line][libft-gnl-printf]
+- tba.
+- tba.
+ 
+### ✅ born2beroot
+- tba.
+- tba.
+
+### ✅ [fdf][fdf]
+- working with the API of [a graphics library](https://github.com/42Paris/minilibx-linux)
+- understanding points in 2 and 3 dimensional space, vectors and trigonometric functions
+- [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
+- Using a [rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix) to transform coordinates
+
 |Project|Status|Description|
 |:---|:---:|---|
 |[libft][libft-gnl-printf]|:white_check_mark:|Recode some functions from the standard C library, as well as some other utility functions that will be useful later on in the cursus.|
