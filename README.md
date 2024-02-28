@@ -46,9 +46,15 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 - UNIX Signals
 - C signal handling
 
+### ✅ [philosophers][philosophers]
+- multithreading in C
+- race condition
+- C mutex lock
+- deadlocks
+
+  
 |Project|Status|Description|
 |:---|:---:|---|
-|[philosophers][philosophers]|:white_check_mark:|Write a program that simulates the life of a group of philosophers to learn the basics of threading a process an mutexes.|
 |[minishell][frankenshell]|:white_check_mark:|Recreate the bash shell. This is a huge project, so you should go check it out. ;) |
 |[cub3D][cub3D]|:white_check_mark:|Create a 3D game in C using raycasting.|
 |NetPractice|:building_construction:|NetPractice is a general practical exercise to let you discover networking in a playful way. The goal is to configure small-scale networks (TCP/IP, Subnetting, Routing, etc.) and to make them work.|
