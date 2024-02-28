@@ -23,16 +23,17 @@
 
 ## 42 Projects
 ### ✅ [libft][libft-gnl-printf]
+
 - A collection of C functions that are often used in various 42 projects.
 - Functions include a mix of standard C library functions and additional utility functions.
-  
+
 ### ✅ [ft_printf][libft-gnl-printf]
 - Efficiently reads a line from a file or standard input until a newline character is encountered.
 - Handles multiple file descriptors simultaneously.
-  
+
 ### ✅ [get_next_line][libft-gnl-printf]
 - Replicates (parts of) the ```printf``` function from the standard C library ```libc```.
- 
+
 ### ✅ born2beroot
 - Install a Virtual Machine and discover the basics of system and network administration
 - Setting up a simple Wordpress web server
@@ -43,7 +44,7 @@
 - [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
 - Using a [rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix) to transform coordinates
 
-### ✅ [push_swap][push_swap]
+### ✅ [push_swap][push_swap] 
 - working with stacks
 - [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
 - [radix sort](https://en.wikipedia.org/wiki/Radix_sort)
@@ -76,14 +77,14 @@
 ### :building_construction: NetPractice
 - NetPractice is a general practical exercise to let you discover networking in a playful way. The goal is to configure small-scale networks.
 - TCP/IP, Subnetting, Routing, etc
-
+ 
 ### :building_construction: [CPPs][CPPs]
 - tba.
 
 ### :building_construction: webserv
 ### :building_construction: Inception
 ### :building_construction: ft_transcendence
- 
+
 <!-- Links -->
 [url_42]:				https://42.fr/en/homepage/
 [url_42lisboa]: 		https://www.42lisboa.com/
@@ -95,6 +96,7 @@
 [frankenshell]:			https://github.com/ahokcool/frankenshell
 [cub3D]:				https://github.com/ahokcool/cub3D
 [CPPs]:					https://github.com/ahokcool/CPPs
+
 
 <!-- ahokcool FOOTER-->
 ---
