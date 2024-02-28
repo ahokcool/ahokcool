@@ -14,7 +14,7 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 
 
 
-## Projects
+## 42 Projects
 ### ✅ [libft][libft-gnl-printf]
 - A collection of C functions that are often used in various 42 projects.
 - Functions include a mix of standard C library functions and additional utility functions.
