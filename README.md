@@ -58,6 +58,7 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 - and a lot more :)
 
 ### ✅ [cub3D][cub3D]
+- [ray casting](https://en.wikipedia.org/wiki/Ray_casting#Ray_casting_in_early_computer_games)
 - the software design pattern [model–view–controller](Model–view–controller)
 - [digital differential analyzer](https://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)) (graphics algorithm)
 - vector handling including: addition, rotation, normalisation
