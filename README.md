@@ -16,17 +16,15 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 
 ## Projects
 ### ✅ [libft][libft-gnl-printf]
-- tba.
-- tba.
-- tba.
-
+- A collection of C functions that are often used in various 42 projects.
+- Functions include a mix of standard C library functions and additional utility functions.
+  
 ### ✅ [ft_printf][libft-gnl-printf]
-- tba.
-- tba.
+- Efficiently reads a line from a file or standard input until a newline character is encountered.
+- Handles multiple file descriptors simultaneously.
   
 ### ✅ [get_next_line][libft-gnl-printf]
-- tba.
-- tba.
+- Replicates (parts of) the ```printf``` function from the standard C library ```libc```.
  
 ### ✅ born2beroot
 - tba.
