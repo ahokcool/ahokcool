@@ -52,11 +52,18 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 - C mutex lock
 - deadlocks
 
-  
+### ✅ [minishell][frankenshell]
+- Recreate the bash shell. This is a huge project, so you should go check it out. ;)
+- multiprocessing in C
+- handling fds & pipelining
+- handling UNIX signals
+- and a lot more :)
+
+### ✅ [cub3D][cub3D]
+
 |Project|Status|Description|
 |:---|:---:|---|
-|[minishell][frankenshell]|:white_check_mark:|Recreate the bash shell. This is a huge project, so you should go check it out. ;) |
-|[cub3D][cub3D]|:white_check_mark:|Create a 3D game in C using raycasting.|
+||:white_check_mark:|Create a 3D game in C using raycasting.|
 |NetPractice|:building_construction:|NetPractice is a general practical exercise to let you discover networking in a playful way. The goal is to configure small-scale networks (TCP/IP, Subnetting, Routing, etc.) and to make them work.|
 |[CPPs][CPPs]|:building_construction:|tba.|
 |webserv|:building_construction:|tba.|
