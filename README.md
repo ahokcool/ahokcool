@@ -1,16 +1,25 @@
 <a id="top"></a>
-## astein: ah ok cool
 
 <div align="center">
 <a href="https://github.com/ahokcool/ahokcool/blob/main/README.md">
- <img src="images/alexgit.png" alt="Logo" width="150">
+ 
 </a><br>
-:v: Oye, I'm Alex, a student at <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.<br><br>
-Here is an overview of my projects. Enjoy exploring my work and feel free to <a href="https://www.linkedin.com/in/ahokcool" target="_blank">contact me</a> if you have any questions or suggestions...
 <a id="top"></a>
 </div>
 
----
+
+
+<div align="center">
+  <a href="./">
+    <img src="images/alexgit.png" alt="Logo" width="150">
+  </a>
+  <h1 align="center">astein aka ah ok cool</h1>
+<p align="center">
+ :v: Oye, I'm Alex, a student at <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.<br><br>
+ Here is an overview of my projects. Enjoy exploring my work and feel free to <a href="https://www.linkedin.com/in/ahokcool" target="_blank">contact me</a> if you have any questions or suggestions...
+</p>
+</div>
+<br>
 
 ## 42 Projects
 ### ✅ [libft][libft-gnl-printf]
