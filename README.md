@@ -66,7 +66,8 @@ Here is an overview of my projects. Enjoy exploring my work and feel free to <a 
 - calculation of perpendicular and euclidean distances
 
 ### :building_construction: NetPractice
-NetPractice is a general practical exercise to let you discover networking in a playful way. The goal is to configure small-scale networks (TCP/IP, Subnetting, Routing, etc.) and to make them work.
+- NetPractice is a general practical exercise to let you discover networking in a playful way. The goal is to configure small-scale networks.
+- TCP/IP, Subnetting, Routing, etc
 
 ### :building_construction: [CPPs][CPPs]
 - tba.
