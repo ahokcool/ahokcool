@@ -74,7 +74,7 @@
 - vector handling including: addition, rotation, normalisation
 - calculation of perpendicular and euclidean distances
 
-### :building_construction: NetPractice
+### ✅ NetPractice
 - NetPractice is a general practical exercise to let you discover networking in a playful way. The goal is to configure small-scale networks.
 - TCP/IP, Subnetting, Routing, etc
  
