@@ -79,7 +79,7 @@
 - TCP/IP, Subnetting, Routing, etc
  
 ### :building_construction: [CPPs][CPPs]
-- tba.
+- 10 projects to get an extended basic understanding of the programming language C++.
 
 ### :building_construction: webserv
 ### :building_construction: Inception
