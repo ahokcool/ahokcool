@@ -81,7 +81,7 @@
 ### ✅ [CPPs][CPPs]
 - 10 projects to get an extended basic understanding of the programming language C++.
 
-### :building_construction: webserv
+### :building_construction: ft_irc
 ### :building_construction: Inception
 ### :building_construction: ft_transcendence
 
