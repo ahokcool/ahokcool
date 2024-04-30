@@ -78,7 +78,7 @@
 - NetPractice is a general practical exercise to let you discover networking in a playful way. The goal is to configure small-scale networks.
 - TCP/IP, Subnetting, Routing, etc
  
-### :building_construction: [CPPs][CPPs]
+### :✅: [CPPs][CPPs]
 - 10 projects to get an extended basic understanding of the programming language C++.
 
 ### :building_construction: webserv
