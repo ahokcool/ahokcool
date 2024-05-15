@@ -81,7 +81,9 @@
 ### ✅ [CPPs][CPPs]
 - 10 projects to get an extended basic understanding of the programming language C++.
 
-### :building_construction: ft_irc
+### ✅ [ft_irc][ft_irc]
+- Creating an IRC server from scratch in CPP
+
 ### :building_construction: Inception
 ### :building_construction: ft_transcendence
 
@@ -96,7 +98,7 @@
 [frankenshell]:			https://github.com/ahokcool/frankenshell
 [cub3D]:				https://github.com/ahokcool/cub3D
 [CPPs]:					https://github.com/ahokcool/CPPs
-
+[ft_irc]:				https://github.com/ahokcool/ft_irc
 
 <!-- ahokcool FOOTER-->
 ---
