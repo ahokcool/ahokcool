@@ -84,7 +84,7 @@
 ### ✅ [ft_irc][ft_irc]
 - Creating an IRC server from scratch in CPP
 
-### :building_construction: Inception
+### :building_construction: [inception][inception]
 ### :building_construction: ft_transcendence
 
 <!-- Links -->
@@ -99,6 +99,7 @@
 [cub3D]:				https://github.com/ahokcool/cub3D
 [CPPs]:					https://github.com/ahokcool/CPPs
 [ft_irc]:				https://github.com/ahokcool/ft_irc
+[inception]:				https://github.com/ahokcool/inception
 
 <!-- ahokcool FOOTER-->
 ---
