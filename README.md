@@ -84,7 +84,10 @@
 ### ✅ [ft_irc][ft_irc]
 - Creating an IRC server from scratch in CPP
 
-### :building_construction: [inception][inception]
+### ✅ [inception][inception]
+- Creating a docker network with multiple services in a virtual machine
+- Docker, Docker-Compose, Debian, MariaDB, Wordpress, Nginx
+
 ### :building_construction: ft_transcendence
 
 <!-- Links -->
