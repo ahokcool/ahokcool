@@ -13,7 +13,7 @@
   <a href="./">
     <img src="images/alexgit.png" alt="Logo" width="150">
   </a>
-  <h1 align="center">astein aka ah ok cool</h1>
+  <h1 align="center">astein aka ahokcool</h1>
 <p align="center">
 ✌️ Oye, I'm Alex — an alumni of <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a> (2023-2025).<br><br>
 Here’s an overview of the projects I completed to successfully finish the 42 Common Core.  
