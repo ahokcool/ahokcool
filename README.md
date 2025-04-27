@@ -15,8 +15,9 @@
   </a>
   <h1 align="center">astein aka ah ok cool</h1>
 <p align="center">
- :v: Oye, I'm Alex, a student at <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.<br><br>
- Here is an overview of my projects. Enjoy exploring my work and feel free to <a href="https://www.linkedin.com/in/ahokcool" target="_blank">contact me</a> if you have any questions or suggestions...
+✌️ Oye, I'm Alex — an alumni of <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a> (2023-2025).<br><br>
+Here’s an overview of the projects I completed to successfully finish the 42 Common Core.  
+Feel free to explore my work — and don't hesitate to <a href="https://www.linkedin.com/in/ahokcool" target="_blank">reach out</a> if you have any questions, feedback, or collaboration ideas!
 </p>
 </div>
 <br>
@@ -88,7 +89,17 @@
 - Creating a docker network with multiple services in a virtual machine
 - Docker, Docker-Compose, Debian, MariaDB, Wordpress, Nginx
 
-### :building_construction: [ft_transcendence][ft_transcendence]
+### ✅ [ft_transcendence][ft_transcendence]
+- Full-stack web application: real-time multiplayer Pong game.
+- Frontend built with Vanilla JavaScript and Bootstrap for a clean SPA experience.
+- Backend powered by Django and Django Rest Framework with JWT Authentication.
+- Real-time features using WebSocket connections.
+- PostgreSQL database managed through pgAdmin.
+- Rootless Docker setup used for containerized development and deployment.
+- Live Chat system for messaging between users.
+- Remote multiplayer games with friend invites and matchmaking.
+- Tournament management system: organize and participate in competitive brackets.
+- RESTful APIs, secure authentication and profile management
 
 <!-- Links -->
 [url_42]:				https://42.fr/en/homepage/
@@ -103,7 +114,7 @@
 [CPPs]:					https://github.com/ahokcool/CPPs
 [ft_irc]:				https://github.com/ahokcool/ft_irc
 [inception]:				https://github.com/ahokcool/inception
-[ft_transcendence]:    https://github.com/rajh-phuyal/42Transcendence
+[ft_transcendence]:    https://github.com/ahokcool/42Transcendence
 <!-- ahokcool FOOTER-->
 ---
 <p align="center">
